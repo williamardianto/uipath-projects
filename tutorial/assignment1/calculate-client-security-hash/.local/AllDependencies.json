@@ -1073,11 +1073,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "UiPath_REFrameWork",
-      "projectName": "UiPath_REFrameWork",
-      "projectPath": "C:\\Users\\Wesley\\Downloads\\uipath-projects\\tutorial\\UiDemo\\ReFramework_UiDemo\\.local",
+      "projectUniqueName": "Calculate_Client_Security_Hash",
+      "projectName": "Calculate_Client_Security_Hash",
+      "projectPath": "C:\\Users\\Wesley\\Downloads\\uipath-projects\\tutorial\\assignment1\\calculate-client-security-hash\\.local",
       "packagesPath": "C:\\Users\\Wesley\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wesley\\Downloads\\uipath-projects\\tutorial\\UiDemo\\ReFramework_UiDemo\\.local"
+      "outputPath": "C:\\Users\\Wesley\\Downloads\\uipath-projects\\tutorial\\assignment1\\calculate-client-security-hash\\.local"
     },
     "frameworks": {
       "net461": {
